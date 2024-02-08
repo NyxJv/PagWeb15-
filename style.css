@@ -22,3 +22,10 @@
     text-align: center;
     padding: 5%;
 }
+.imgint{
+    height: 128px;
+    width: 200px;
+}
+.carousel-item{
+    padding-left: 30%;
+}
