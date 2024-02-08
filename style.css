@@ -1,3 +1,24 @@
 *{
-    background-color:beige;
+    background-color:rgb(212, 212, 212);
+}
+.emprendedores{
+    background-color: rgb(99, 99, 99);
+    text-transform: capitalize;
+    text-decoration:dashed;    
+    text-align: center;
+    padding: 5%;
+}
+.empresassv{
+    background-color: rgb(99, 99, 99);
+    text-transform: capitalize;
+    text-decoration:dashed;    
+    text-align: center;
+    padding: 5%;
+}
+.empresasint{
+    background-color: rgb(99, 99, 99);
+    text-transform: capitalize;
+    text-decoration:dashed;    
+    text-align: center;
+    padding: 5%;
 }
